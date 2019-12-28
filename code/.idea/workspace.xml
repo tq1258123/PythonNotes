@@ -35,8 +35,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.文件的基本操作">
-    <configuration name="文件的基本操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.作业1">
+    <configuration name="大作业：购物车" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,11 +44,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/015_文件的基本操作" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/019_函数名、闭包和迭代器" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/015_文件的基本操作/文件的基本操作.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/019_函数名、闭包和迭代器/大作业：购物车.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9.跑马灯文字" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="作业1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/014_字符串，列表，元组，集合和字典" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/019_函数名、闭包和迭代器" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/014_字符串，列表，元组，集合和字典/9.跑马灯文字.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/019_函数名、闭包和迭代器/作业1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dict1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="作业7 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/014_字符串，列表，元组，集合和字典" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/018_函数注释、嵌套和命名空间" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/014_字符串，列表，元组，集合和字典/dict1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/018_函数注释、嵌套和命名空间/作业7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dict2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="作业9 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/014_字符串，列表，元组，集合和字典" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/018_函数注释、嵌套和命名空间" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/014_字符串，列表，元组，集合和字典/dict2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/018_函数注释、嵌套和命名空间/作业9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="作业9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/014_字符串，列表，元组，集合和字典" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/018" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/014_字符串，列表，元组，集合和字典/set2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/018/作业9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.文件的基本操作" />
-        <item itemvalue="Python.9.跑马灯文字" />
-        <item itemvalue="Python.dict2" />
-        <item itemvalue="Python.dict1" />
-        <item itemvalue="Python.set2" />
+        <item itemvalue="Python.作业1" />
+        <item itemvalue="Python.大作业：购物车" />
+        <item itemvalue="Python.作业9 (1)" />
+        <item itemvalue="Python.作业7 (1)" />
+        <item itemvalue="Python.作业9" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +169,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
