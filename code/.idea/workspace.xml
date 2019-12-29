@@ -21,7 +21,7 @@
   <component name="ProjectId" id="1VSJ1IYCDDkaU8poHddY89vSudf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../大作业" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -35,7 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.作业1">
+  <component name="RunManager" selected="Python.大作业：购物车">
     <configuration name="大作业：购物车" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,8 +143,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.作业1" />
         <item itemvalue="Python.大作业：购物车" />
+        <item itemvalue="Python.作业1" />
         <item itemvalue="Python.作业9 (1)" />
         <item itemvalue="Python.作业7 (1)" />
         <item itemvalue="Python.作业9" />
