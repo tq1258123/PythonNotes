@@ -27,10 +27,11 @@ https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92
 4.forward默认是朝东开始画，setheading可以调整初始朝向角度
 '''
 
+# 导入turtle模块
 import turtle
 
 # 设置画图的速度
-turtle.speed(1)
+turtle.speed(2)
 # 抬起笔，移动坐标，设定初始坐标
 turtle.up()
 turtle.goto(-200, 200)
@@ -47,6 +48,7 @@ for i in range(2):
     turtle.right(90)
     turtle.forward(292)
     turtle.right(90)
+# 完成颜色填充
 turtle.end_fill()
 
 # 设置五角星颜色

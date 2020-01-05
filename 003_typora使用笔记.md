@@ -93,7 +93,7 @@
 graph LR
     A[A] --> B(Bib)
     B --> E{E}
-    E -- hello ---F{F}
+    E ---hello---F{F}
     F -->|yes|M
     F -->|no|N
     A --> C((circle))
