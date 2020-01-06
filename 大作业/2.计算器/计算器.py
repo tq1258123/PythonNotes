@@ -1,0 +1,78 @@
+# -*- coding: utf-8 -*-
+# @Time     : 2020/1/6 23:04
+# @Author   : 童庆
+# @FileName : 计算器.py
+# @Software : PyCharm
+
+
+import re
+
+
+# 把要计算的内容进行格式化，以及更改符号变化
+def format_exp(exp):
+    exp = exp.replace('--', '+')
+    exp = exp.replace('++', '+')
+    exp = exp.replace('-+', '-')
+    exp = exp.replace('+-', '-')
+    return exp
+
+
+# 通过乘除号分隔前后两项，然后通过返回值计算
+def atom_cal(exp):
+    if '*' in exp:
+        a, b = exp.split('*')
+        return str(float(a) * float(b))
+    elif '/' in exp:
+        a, b = exp.split('/')
+        return str(float(a) / float(b))
+
+
+# 通过正则先筛选出乘除法，然后用上面的函数计算乘除法的结果
+def mul_div(exp):
+    while 1:
+        ret = re.search("\d+(\.\d+)?[*/]-?\d+(\.\d+)?", exp)
+        if ret:
+            atom_exp = ret.group()
+            res = atom_cal(atom_exp)
+            exp = exp.replace(atom_exp, res)
+        else:
+            return exp
+
+
+# 计算加减法
+def add_sub(exp):
+    ret = re.findall('[+-]?\d+(?:\.\d+)?', exp)
+    exp_sum = 0
+    for i in ret:
+        exp_sum += float(i)
+    return exp_sum
+
+
+# 计算加减乘除，先乘除后加减
+def cal(exp):
+    exp = mul_div(exp)
+    exp = format_exp(exp)
+    exp = add_sub(exp)
+    return exp
+
+
+# 总函数，用来整体执行
+def main(exp):
+    exp = exp.replace(' ', '')
+    while 1:
+        ret = re.search('\([^()]+\)', exp)
+        if ret:
+            inner_bracket = ret.group()
+            res = str(cal(inner_bracket))
+            exp = exp.replace(inner_bracket, res)
+            exp = format_exp(exp)
+            print(exp)
+        else:
+            break
+    return cal(exp)
+
+
+s = '1-2*(3/4*5+(6*7))*(2*4)-18+32'
+ret = main(s)
+print(ret)
+print(eval(s))
