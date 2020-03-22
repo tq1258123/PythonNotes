@@ -1,7 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acef535c-418e-42a2-9674-ab6376549d5b" name="Default Changelist" comment="" />
+    <list default="true" id="acef535c-418e-42a2-9674-ab6376549d5b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.10_构造函数逻辑/1.水仙花数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.10_构造函数逻辑/2.回文数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.10_构造函数逻辑/3.百钱白鸡.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.10_构造函数逻辑/4.craps--有问题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.10_构造函数逻辑/5.斐波那契数列.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.10_构造函数逻辑/6.完美数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.10_构造函数逻辑/7.素数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.11_深浅拷贝/1.深拷贝.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.11_深浅拷贝/2.浅拷贝.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.12_文件基本操作/a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.12_文件基本操作/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.12_文件基本操作/文件的基本操作.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.13_函数和参数/student.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.13_函数和参数/作业1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.13_函数和参数/作业2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.13_函数和参数/作业3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.13_函数和参数/作业4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.13_函数和参数/作业5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.13_函数和参数/作业6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.13_函数和参数/作业7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.13_函数和参数/作业8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.13_函数和参数/作业9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.14_函数注释、嵌套和命名空间/df.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.14_函数注释、嵌套和命名空间/作业1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.14_函数注释、嵌套和命名空间/作业2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.14_函数注释、嵌套和命名空间/作业3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.14_函数注释、嵌套和命名空间/作业4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.14_函数注释、嵌套和命名空间/作业5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.14_函数注释、嵌套和命名空间/作业6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.14_函数注释、嵌套和命名空间/作业7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.14_函数注释、嵌套和命名空间/作业8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.14_函数注释、嵌套和命名空间/作业9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.15_错误和异常/作业1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.1_第一个小程序/1.打印hello world.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.1_第一个小程序/2.画正方形.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.1_第一个小程序/3.画五星红旗.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.2_编码问题/Python编码.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.3_变量及数据类型/1.使用type()检查变量的类型.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.3_变量及数据类型/2.变量类型之间的转换.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.4_字符串/1.字符串基本操作.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.4_字符串/2.设计字符串的内置函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.5_常用数据结构/1.列表的增改删.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.5_常用数据结构/2.列表的常规操作.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.5_常用数据结构/3.列表生成表达式和生成器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.5_常用数据结构/4.元组.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.5_常用数据结构/5.集合增删改.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.5_常用数据结构/6.集合的常规操作.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.5_常用数据结构/7.字典的增改删.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.5_常用数据结构/8.字典的常规操作.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.6_运算符/1.加减乘除.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.6_运算符/2.比较运算.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.6_运算符/3.判断是否为闰年.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.8_分支结构/1.判断输入信息对错.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.8_分支结构/2.分段函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.8_分支结构/3.分段函数嵌套.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.8_分支结构/4.英制单位英寸与公制单位厘米互换.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.8_分支结构/5.百分制成绩转换为等级制成绩.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.8_分支结构/6.三角形计算.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.9_循环结构/1.猜数字.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.9_循环结构/2.乘法口诀表.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.9_循环结构/3.判断是否为素数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.9_循环结构/4.计算最大公约数和最小公倍数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第2章 Python基础篇/2.9_循环结构/5.打印三角形图案.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.13_面向对象/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.13_面向对象/作业1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.13_面向对象/作业2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.18_软件开发规范/my_project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.18_软件开发规范/my_project/bin/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.18_软件开发规范/my_project/bin/start.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.18_软件开发规范/my_project/conf/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.18_软件开发规范/my_project/conf/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.18_软件开发规范/my_project/core/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.18_软件开发规范/my_project/core/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.18_软件开发规范/my_project/core/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.18_软件开发规范/my_project/core/search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.18_软件开发规范/my_project/db/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.18_软件开发规范/my_project/db/staff_info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.18_软件开发规范/my_project/lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.18_软件开发规范/my_project/log/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.18_软件开发规范/my_project/log/allog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.18_软件开发规范/按时间打印星号.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.1_内置函数/作业1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.1_内置函数/作业2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.1_内置函数/作业3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.1_内置函数/作业4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.1_内置函数/作业5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.1_内置函数/作业6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.1_内置函数/作业7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.2_函数名、闭包和迭代器/作业1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.2_函数名、闭包和迭代器/作业2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.2_函数名、闭包和迭代器/作业3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.3_生成器和推导式/作业1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.3_生成器和推导式/作业2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.3_生成器和推导式/作业3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.3_生成器和推导式/作业4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.4_装饰器/1.简单装饰器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.4_装饰器/2.装饰器传参数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.5_常用模块/json_file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.5_常用模块/作业1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.5_常用模块/作业2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.5_常用模块/作业3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/3.5_常用模块/作业4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第3章 Python高级篇/练习.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第4章 使用Python操作数据库/4.1.5_MySQL基础知识/数据库删除操作.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第4章 使用Python操作数据库/4.1.5_MySQL基础知识/数据库批量插入操作.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第4章 使用Python操作数据库/4.1.5_MySQL基础知识/数据库插入操作.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第4章 使用Python操作数据库/4.1.5_MySQL基础知识/数据库更新操作.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第4章 使用Python操作数据库/4.1.5_MySQL基础知识/数据库查询操作.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第4章 使用Python操作数据库/4.2.5_使用Python操作MongoDB/使用Python操作MongoDB.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第5章 Python爬虫/5.2_爬虫基本原理讲解/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第5章 Python爬虫/5.2_爬虫基本原理讲解/练习1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第5章 Python爬虫/5.2_爬虫基本原理讲解/练习2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第5章 Python爬虫/练习.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/Request.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/Response.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/保存数据.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/抓取数据类型.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/解析方式.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第1章 初识Python语言/1.2_软件安装.md" beforeDir="false" afterPath="$PROJECT_DIR$/../notes/第1章 初识Python语言/1.2_软件安装.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第1章 初识Python语言/1.4_软件界面优化.md" beforeDir="false" afterPath="$PROJECT_DIR$/../notes/第1章 初识Python语言/1.4_软件界面优化.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第1章 初识Python语言/1.5_软件快捷键记录.md" beforeDir="false" afterPath="$PROJECT_DIR$/../notes/第1章 初识Python语言/1.5_软件快捷键记录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第2章 Python基础篇/2.12_文件基本操作.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第2章 Python基础篇/2.14_错误和异常.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第2章 Python基础篇/2.15_函数注释、嵌套和命名空间.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第2章 Python基础篇/2.1_第一个小程序.md" beforeDir="false" afterPath="$PROJECT_DIR$/../notes/第2章 Python基础篇/2.1_第一个小程序.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第2章 Python基础篇/2.2_编码问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/../notes/第2章 Python基础篇/2.2_编码问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第3章 Python高级篇/3.10_json和pickle模块.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第3章 Python高级篇/3.11_正则表达式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第3章 Python高级篇/3.12_re模块.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第3章 Python高级篇/3.13_面向对象1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第3章 Python高级篇/3.13_面向对象2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第3章 Python高级篇/3.13_面向对象3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第3章 Python高级篇/3.13_面向对象4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第3章 Python高级篇/3.13_面向对象5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第3章 Python高级篇/3.13_面向对象多继承.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第3章 Python高级篇/3.14_线程和进程.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第3章 Python高级篇/3.15_JSON数据解析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第3章 Python高级篇/3.16_存储对象序列化.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第3章 Python高级篇/3.17_发送E-mail.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第3章 Python高级篇/3.18_软件开发规范.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第3章 Python高级篇/3.1_内置函数1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第3章 Python高级篇/3.1_内置函数2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第4章 使用Python操作数据库/4.1.6_Python操作MySQL.md" beforeDir="false" afterPath="$PROJECT_DIR$/../notes/第4章 使用Python操作数据库/4.1.6_Python操作MySQL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第4章 使用Python操作数据库/4.2.3_MongoDB基本操作.md" beforeDir="false" afterPath="$PROJECT_DIR$/../notes/第4章 使用Python操作数据库/4.2.3_MongoDB基本操作.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第4章 使用Python操作数据库/4.2.5_使用Python操作MongoDB.md" beforeDir="false" afterPath="$PROJECT_DIR$/../notes/第4章 使用Python操作数据库/4.2.5_使用Python操作MongoDB.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第4章 使用Python操作数据库/MySQL数据/4.1_操作MySQL数据库.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第5章 Python爬虫/5.1_爬虫常用库的安装.md" beforeDir="false" afterPath="$PROJECT_DIR$/../notes/第5章 Python爬虫/5.1_爬虫常用库的安装.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第5章 Python爬虫/5.2_爬虫基本原理讲解.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第5章 Python爬虫/5.3_Urllib库详解.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第5章 Python爬虫/5.4_Requests库详解.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes/第5章 Python爬虫/爬虫.md" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +169,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -19,10 +178,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1VSJ1IYCDDkaU8poHddY89vSudf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -36,8 +198,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.练习2">
-    <configuration name="练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.练习aaa">
+    <configuration name="练习 (1)" type="PythonConfigurationType" factoryName="Python">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,11 +207,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第3章 Python高级篇" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第5章 Python爬虫" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第3章 Python高级篇/练习.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第5章 Python爬虫/练习.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="练习 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第5章 Python爬虫/5.16_验证码的识别" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第5章 Python爬虫/5.16_验证码的识别/练习.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第5章 Python爬虫/爬取头条照片" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第5章 Python爬虫/爬取头条照片/测试.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.字符串基本操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="作业1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +291,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第2章 Python基础篇/2.4_字符串" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第2章 Python基础篇/2.15_错误和异常" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第2章 Python基础篇/2.4_字符串/1.字符串基本操作.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第2章 Python基础篇/2.15_错误和异常/作业1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +325,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.装饰器传参数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="抓取头条图片" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +333,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第3章 Python高级篇/3.4_装饰器" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第5章 Python爬虫" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第3章 Python高级篇/3.4_装饰器/2.装饰器传参数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第5章 Python爬虫/抓取头条图片.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +346,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="使用Python操作MongoDB" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="头条" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,11 +354,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第4章 使用Python操作数据库/4.2.5_使用Python操作MongoDB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第5章 Python爬虫/爬取头条照片" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第4章 使用Python操作数据库/4.2.5_使用Python操作MongoDB/使用Python操作MongoDB.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第5章 Python爬虫/爬取头条照片/头条.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="按时间打印星号" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第3章 Python高级篇/3.19_软件开发规范" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第3章 Python高级篇/3.19_软件开发规范/按时间打印星号.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="抓取今日头条图片" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第5章 Python爬虫/5.11_分析Ajax来抓取今日头条街拍美图" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第5章 Python爬虫/5.11_分析Ajax来抓取今日头条街拍美图/抓取今日头条图片.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,6 +422,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第4章 使用Python操作数据库/4.1.5_MySQL基础知识/数据库批量插入操作.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="头条" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第5章 Python爬虫/爬取头条照片" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第5章 Python爬虫/爬取头条照片/头条.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="头条" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第5章 Python爬虫/爬取头条照片" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第5章 Python爬虫/爬取头条照片/头条.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,15 +556,165 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="头条" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第5章 Python爬虫/爬取头条照片" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第5章 Python爬虫/爬取头条照片/头条.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第5章 Python爬虫/爬取头条照片" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第5章 Python爬虫/爬取头条照片/测试.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="抓取头条图片" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第5章 Python爬虫" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第5章 Python爬虫/抓取头条图片.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="头条" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第5章 Python爬虫/爬取头条照片" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第5章 Python爬虫/爬取头条照片/头条.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第5章 Python爬虫/爬取头条照片" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第5章 Python爬虫/爬取头条照片/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="练习aaa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第5章 Python爬虫/5.16_验证码的识别" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第5章 Python爬虫/5.16_验证码的识别/练习aaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="requests+正则抓取猫眼top100" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第5章 Python爬虫/5.10_Selenium +正则表达式爬取猫眼电影top100" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第5章 Python爬虫/5.10_Selenium +正则表达式爬取猫眼电影top100/requests+正则抓取猫眼top100.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.使用Python操作MongoDB" />
-        <item itemvalue="Python.练习" />
+        <item itemvalue="Python.练习aaa" />
+        <item itemvalue="Python.练习 (2)" />
+        <item itemvalue="Python.测试" />
+        <item itemvalue="Python.a" />
+        <item itemvalue="Python.requests+正则抓取猫眼top100" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\lenovo\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
