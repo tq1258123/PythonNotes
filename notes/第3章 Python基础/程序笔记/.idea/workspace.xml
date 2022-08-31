@@ -46,7 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Python.acd">
     <configuration name="abc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -112,6 +112,7 @@
       <updated>1661731515034</updated>
       <workItem from="1661731516163" duration="619000" />
       <workItem from="1661817761697" duration="1340000" />
+      <workItem from="1661901451670" duration="896000" />
     </task>
     <servers />
   </component>
@@ -128,6 +129,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="588" y="288" key="#Notifications" timestamp="1661732130783">
@@ -150,10 +152,10 @@
       <screen x="0" y="0" width="1440" height="852" />
     </state>
     <state width="1398" height="220" key="GridCell.Tab.0.right/0.0.1440.852@0.0.1440.852" timestamp="1661819111721" />
-    <state x="222" y="71" key="SettingsEditor" timestamp="1661819107595">
+    <state x="222" y="71" key="SettingsEditor" timestamp="1661901746499">
       <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state x="222" y="71" key="SettingsEditor/0.0.1440.852@0.0.1440.852" timestamp="1661819107595" />
+    <state x="222" y="71" key="SettingsEditor/0.0.1440.852@0.0.1440.852" timestamp="1661901746499" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/$abc.coverage" NAME="abc Coverage Results" MODIFIED="1661818379846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
